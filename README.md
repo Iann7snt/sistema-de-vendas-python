@@ -12,4 +12,4 @@ Projeto acadêmico desenvolvido em Python para aplicar conceitos de lógica de p
 Abra o arquivo `sgv.py` em um ambiente com Python instalado e execute o programa.
 
 ## Apresentação em vídeo
-O link da apresentação no YouTube será adicionado após a publicação do vídeo.
+[Link do vídeo da apresentação no YouTube.](https://youtu.be/GtghDvI4TBg?si=FHP15QhVrAdsyIbE)
